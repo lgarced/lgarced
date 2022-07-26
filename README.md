@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently working on a Special Operations Project
+
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lgarced)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
