@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
 
 ## 📊 Most Used Language [🔝](#welcome)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced&layout=compact)](https://github.com/lgarced/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced=compact)
   
 
 
