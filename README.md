@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 📊 Most Used Language [🔝]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced=compact)] (https://github.com/lgarced/lgarced)
 
 
 
