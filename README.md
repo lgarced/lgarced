@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced
+![Github stats]https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced
 
 
 
