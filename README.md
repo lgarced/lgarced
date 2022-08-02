@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- [Welcome](#welcome)
 
-##Currently Working with:
+ - [🚀 Frameworks & Library](#-frameworks--library-)
+ - [👩‍💻 Languages](#-languages-)
+ - [📟 GitHub Stats](#-github-stats-)
+
+
+## Currently Working with:
 
 
 ## 🚀 Frameworks & Library [🔝]
