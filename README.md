@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
--Currently Working with:
+##Currently Working with:
 
 
 ## 🚀 Frameworks & Library [🔝]
@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 ## 📊 Most Used Language [🔝]
 
-  <img width='200' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced=compact)]
+
 
 
 
