@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 
 
--Most used languages:
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced)
+## 📊 Most Used Language [🔝]
+
+ | <img width='200' src= "https://github-readme-stats.vercel.app/api/top-langs/?username={lgarced}" /> |
 
 
 
