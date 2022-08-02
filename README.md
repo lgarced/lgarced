@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a Special Operations Project
+-Currentyl Working with:
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white 	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white  
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=lgarced
 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lgarced)
+
+
 
