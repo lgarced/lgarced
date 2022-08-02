@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - [Welcome](#welcome)
 
  - [🚀 Frameworks & Library](#-frameworks--library-)
+ - [👩‍💻 IDE](#-ide-)
  - [👩‍💻 Languages](#-languages-)
+ - [👨‍💻 Database Management System](#-database-management-system-)
  - [📟 GitHub Stats](#-github-stats-)
-
+ - [📊 Most Used Language](#-most-used-language-)
 
 ## Currently Working with:
 
