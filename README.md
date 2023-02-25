@@ -27,13 +27,14 @@ Here are some ideas to get you started:
  - [📊 Most Used Language](#-most-used-language-)
 
 ## Currently Working with:
+<img src="https://img.shields.io/badge/Azure-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white"> <img src ="https://img.shields.io/badge/AzureDataFactory-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white">
 
 
+## I have worked with:
 ## 🚀 Frameworks & Library [🔝](#welcome)
 <img src="https://img.shields.io/badge/.NET-512BD4?10style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?10style=for-the-badge&logo=express&logoColor=white"/> <img src= "https://img.shields.io/badge/Font_Awesome-339AF0?10style=for-the-badge&logo=fontawesome&logoColor=white">  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?10style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />  <img src="https://img.shields.io/badge/Insomnia-5849be?10style=for-the-badge&logo=Insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?10style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Sass-CC6699?10style=for-the-badge&logo=sass&logoColor=white" />   <ing src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?10&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Material%20Ui-007FFF?10style=for-the-badge&logo=mui&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2CA5E0?10style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?10&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?10style=for-the-badge&logo=npm&logoColor=white"/>
 
 ## 👩‍💻 IDE [🔝](#welcome)
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Databricks-FF3621?10style=for-the-badge&logo=Databricks&logoColor=white" />
 
 ## ☁ Cloud [🔝](#welcome)
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white" />   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?10style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Azure-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white" />   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?10style=for-the-badge&logo=amazonaws&logoColor=white" /> 
 
 ## 💻 Terminal [🔝](#welcome)
  <img src="https://img.shields.io/badge/powershell-5391FE?10style=for-the-badge&logo=powershell&logoColor=white" />    
