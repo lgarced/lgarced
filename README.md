@@ -35,7 +35,10 @@
 
 ## 💻 Terminal 
  <img src="https://img.shields.io/badge/powershell-5391FE?10style=for-the-badge&logo=powershell&logoColor=white" /> <img src ="https://img.shields.io/badge/GIT-E44C30?10style=for-the-badge&logo=git&logoColor=white">   
+ 
+## ⏱ Streak Stats
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=lgarced&theme{dark}" />
 
-## Trophy Stats
-<img widht='200' src="https://github-profile-trophy.vercel.app/?username=lgarced">
+## 🏆 Trophy Stats
+<img widht='200' src="https://github-profile-trophy.vercel.app/?username=lgarced&theme{dark}">
 
