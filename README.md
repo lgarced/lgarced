@@ -4,10 +4,6 @@
 <!--
 **lgarced/lgarced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[[_TOC_]]
-s
-
-
 # Currently Working with:
 <img src="https://img.shields.io/badge/Azure-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white"> <img src ="https://img.shields.io/badge/AzureDataFactory-0078D7?10style=for-the-badge&logo=azure-devops&logoColor=white"><img src = "https://img.shields.io/badge/Postman-FF6C37?10style=for-the-badge&logo=Postman&logoColor=white"><img src = "https://img.shields.io/badge/PowerBI-F2C811?10style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/powershell-5391FE?10style=for-the-badge&logo=powershell&logoColor=white" /> <img src ="https://img.shields.io/badge/GIT-E44C30?10style=for-the-badge&logo=git&logoColor=white">
 
